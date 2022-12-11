@@ -1,2 +1,3 @@
-# node_exercice
+
+# node-exercise
 For learning node.js
